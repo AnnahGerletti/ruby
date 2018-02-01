@@ -1,6 +1,8 @@
-#math in Ruby
-#uses opperators 
-# Dealing with numbers < 1 (.5) have to put the 0 before (0.5)
+=begins
+math in Ruby
+uses opperators 
+Dealing with numbers < 1 (.5) have to put the 0 before (0.5)
+=end
 
 #adding uses + 
 # + can also be used to combined things 
