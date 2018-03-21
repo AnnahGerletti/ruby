@@ -21,3 +21,11 @@ p -1.next + 7.next # the -1 takes 1 away from zero. then we add 7 to get 8
 
 name = "annah"
 p "my #{name} is, how are you"
+
+age = 32
+p "In five years I will be #{age + 5} years old"
+
+# the gets methods gets info from the user, requiers user to imput something, NOTE: with gets there will be a new line /n char behind the string
+
+
+# to remove the line break when using gets, use: gets.chomp
