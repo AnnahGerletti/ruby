@@ -37,3 +37,6 @@ p 2 ** 4
 
 p 5 % 2 # 5 / 2 return 2.5 but module will output 1
 
+p.next # will count up from the next number after five
+
+p 5.to_s # will convert number to a string
